@@ -1,6 +1,6 @@
 # Media Box
 
-A streamlit web app that downloads videos, converts etc
+A streamlit web app that downloads insta, fb & yt videos and converts video file(mp4) to audio(mp3) etc
 
 Functions:
 - Youtube video download
